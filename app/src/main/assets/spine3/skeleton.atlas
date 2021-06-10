@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 800,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anniu
+  rotate: false
+  xy: 393, 3
+  size: 282, 67
+  orig: 285, 71
+  offset: 1, 3
+  index: -1
+images/bizi
+  rotate: false
+  xy: 710, 3
+  size: 30, 24
+  orig: 32, 26
+  offset: 1, 1
+  index: -1
+images/feitan
+  rotate: true
+  xy: 471, 154
+  size: 246, 136
+  orig: 247, 136
+  offset: 1, 0
+  index: -1
+images/guang
+  rotate: true
+  xy: 2, 8
+  size: 392, 389
+  orig: 426, 424
+  offset: 17, 18
+  index: -1
+images/hongyun
+  rotate: true
+  xy: 746, 307
+  size: 93, 30
+  orig: 95, 32
+  offset: 1, 1
+  index: -1
+images/saoba
+  rotate: true
+  xy: 393, 72
+  size: 328, 76
+  orig: 337, 83
+  offset: 4, 4
+  index: -1
+images/shenti
+  rotate: true
+  xy: 520, 81
+  size: 71, 55
+  orig: 74, 57
+  offset: 1, 1
+  index: -1
+images/shoubi
+  rotate: true
+  xy: 742, 4
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+images/shoubi2
+  rotate: true
+  xy: 609, 156
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 641, 87
+  size: 129, 107
+  orig: 131, 109
+  offset: 1, 1
+  index: -1
+images/x
+  rotate: false
+  xy: 677, 29
+  size: 56, 56
+  orig: 63, 64
+  offset: 4, 4
+  index: -1
+images/x3
+  rotate: false
+  xy: 677, 29
+  size: 56, 56
+  orig: 63, 64
+  offset: 4, 4
+  index: -1
+images/x2
+  rotate: false
+  xy: 735, 44
+  size: 41, 41
+  orig: 48, 49
+  offset: 4, 4
+  index: -1
+images/xiaorong
+  rotate: false
+  xy: 677, 2
+  size: 31, 25
+  orig: 33, 27
+  offset: 1, 1
+  index: -1
+images/youer
+  rotate: false
+  xy: 577, 82
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+images/youtui
+  rotate: false
+  xy: 773, 11
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+images/youyan
+  rotate: false
+  xy: 771, 278
+  size: 27, 27
+  orig: 30, 29
+  offset: 1, 1
+  index: -1
+images/zongsheng
+  rotate: true
+  xy: 609, 196
+  size: 204, 135
+  orig: 204, 135
+  offset: 0, 0
+  index: -1
+images/zuoer
+  rotate: false
+  xy: 471, 74
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1
+images/zuotui
+  rotate: false
+  xy: 746, 276
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+images/zuoyan
+  rotate: false
+  xy: 746, 246
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
