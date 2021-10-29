@@ -1,0 +1,398 @@
+
+pipi_speak.png
+size: 1425,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1dianhua
+  rotate: true
+  xy: 2, 45
+  size: 320, 265
+  orig: 320, 265
+  offset: 0, 0
+  index: -1
+images/biyan_youyan_pp
+  rotate: false
+  xy: 673, 16
+  size: 113, 58
+  orig: 113, 58
+  offset: 0, 0
+  index: -1
+images/biyan_zuoyan_pp
+  rotate: false
+  xy: 329, 7
+  size: 143, 58
+  orig: 143, 58
+  offset: 0, 0
+  index: -1
+images/bizi_pp
+  rotate: false
+  xy: 229, 13
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+images/bozi_pp
+  rotate: false
+  xy: 597, 5
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+images/daimao_pp
+  rotate: false
+  xy: 1142, 133
+  size: 214, 251
+  orig: 214, 251
+  offset: 0, 0
+  index: -1
+images/dianzan_youshou_pp
+  rotate: true
+  xy: 1230, 25
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+images/guang_youyan_pp
+  rotate: false
+  xy: 135, 7
+  size: 27, 36
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+images/guang_zuoyan_pp
+  rotate: false
+  xy: 99, 3
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+images/hua
+  rotate: false
+  xy: 670, 369
+  size: 145, 150
+  orig: 160, 163
+  offset: 8, 11
+  index: -1
+images/jing_zuoyan_pp
+  rotate: true
+  xy: 697, 521
+  size: 54, 58
+  orig: 55, 58
+  offset: 1, 0
+  index: -1
+images/jingya_youyan_pp
+  rotate: true
+  xy: 697, 521
+  size: 54, 58
+  orig: 55, 58
+  offset: 1, 0
+  index: -1
+images/lei_you_pp
+  rotate: false
+  xy: 1266, 519
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+images/lei_zuo_pp
+  rotate: false
+  xy: 1266, 519
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+images/lian_pp
+  rotate: false
+  xy: 788, 605
+  size: 481, 428
+  orig: 486, 433
+  offset: 3, 3
+  index: -1
+images/meiyou2_pp
+  rotate: true
+  xy: 1358, 321
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+images/meizuo2_pp
+  rotate: false
+  xy: 1324, 529
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+images/nanguo_youyan_pp
+  rotate: false
+  xy: 578, 703
+  size: 113, 132
+  orig: 113, 133
+  offset: 0, 0
+  index: -1
+images/nanguo_zuoyan_pp
+  rotate: false
+  xy: 817, 377
+  size: 140, 143
+  orig: 141, 143
+  offset: 1, 0
+  index: -1
+images/shenti_pp
+  rotate: false
+  xy: 927, 102
+  size: 213, 273
+  orig: 213, 273
+  offset: 0, 0
+  index: -1
+images/tou_pp
+  rotate: true
+  xy: 2, 367
+  size: 666, 574
+  orig: 666, 574
+  offset: 0, 0
+  index: -1
+images/weiba_pp
+  rotate: true
+  xy: 544, 76
+  size: 289, 151
+  orig: 290, 151
+  offset: 0, 0
+  index: -1
+images/woquanyou_pp
+  rotate: false
+  xy: 1324, 48
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+images/woquanzuo_pp
+  rotate: false
+  xy: 786, 522
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+images/xiao_youyan_pp
+  rotate: true
+  xy: 1068, 517
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+images/xiao_zuoyan_pp
+  rotate: true
+  xy: 1065, 382
+  size: 133, 55
+  orig: 133, 55
+  offset: 0, 0
+  index: -1
+images/xiaoda_pp
+  rotate: true
+  xy: 1271, 741
+  size: 196, 150
+  orig: 196, 150
+  offset: 0, 0
+  index: -1
+images/youer_pp
+  rotate: false
+  xy: 697, 93
+  size: 228, 274
+  orig: 228, 274
+  offset: 0, 0
+  index: -1
+images/youjiao_pp
+  rotate: false
+  xy: 2, 2
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1
+images/zuojiao_pp
+  rotate: false
+  xy: 2, 2
+  size: 95, 41
+  orig: 95, 41
+  offset: 0, 0
+  index: -1
+images/youmei_pp
+  rotate: true
+  xy: 280, 5
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+images/youshangbi_pp
+  rotate: true
+  xy: 1001, 4
+  size: 96, 118
+  orig: 96, 118
+  offset: 0, 0
+  index: -1
+images/youshou_pp
+  rotate: true
+  xy: 788, 4
+  size: 87, 86
+  orig: 89, 86
+  offset: 1, 0
+  index: -1
+images/youtui_pp
+  rotate: false
+  xy: 578, 376
+  size: 90, 231
+  orig: 90, 231
+  offset: 0, 0
+  index: -1
+images/youxiabi_pp
+  rotate: true
+  xy: 578, 837
+  size: 95, 117
+  orig: 95, 117
+  offset: 0, 0
+  index: -1
+images/youyan_pp
+  rotate: false
+  xy: 697, 580
+  size: 87, 121
+  orig: 87, 122
+  offset: 0, 1
+  index: -1
+images/youyanbai_pp
+  rotate: true
+  xy: 1243, 396
+  size: 119, 165
+  orig: 119, 165
+  offset: 0, 0
+  index: -1
+images/youzhoumei_pp
+  rotate: true
+  xy: 757, 528
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+images/zhi_youshou_pp
+  rotate: false
+  xy: 1121, 8
+  size: 107, 92
+  orig: 109, 94
+  offset: 1, 1
+  index: -1
+images/zui_pp
+  rotate: false
+  xy: 578, 934
+  size: 117, 99
+  orig: 118, 100
+  offset: 1, 1
+  index: -1
+images/zuiga_pp
+  rotate: false
+  xy: 474, 7
+  size: 121, 58
+  orig: 123, 58
+  offset: 1, 0
+  index: -1
+images/zuigu_pp
+  rotate: true
+  xy: 927, 524
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+images/zuijing_pp
+  rotate: true
+  xy: 1271, 939
+  size: 94, 152
+  orig: 94, 152
+  offset: 0, 0
+  index: -1
+images/zuimin_pp
+  rotate: true
+  xy: 670, 521
+  size: 86, 25
+  orig: 86, 26
+  offset: 0, 1
+  index: -1
+images/zuinanguo_pp
+  rotate: true
+  xy: 959, 380
+  size: 135, 104
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+images/zuio_pp
+  rotate: true
+  xy: 976, 517
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+images/zuishetou_pp
+  rotate: false
+  xy: 578, 609
+  size: 110, 92
+  orig: 110, 92
+  offset: 0, 0
+  index: -1
+images/zuoer_pp
+  rotate: false
+  xy: 269, 67
+  size: 273, 298
+  orig: 274, 298
+  offset: 1, 0
+  index: -1
+images/zuomei_pp
+  rotate: true
+  xy: 878, 523
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+images/zuoshangbi_pp
+  rotate: true
+  xy: 876, 5
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+images/zuoshou_pp
+  rotate: true
+  xy: 697, 703
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+images/zuotui_pp
+  rotate: false
+  xy: 697, 802
+  size: 89, 231
+  orig: 90, 231
+  offset: 0, 0
+  index: -1
+images/zuoxiabi_pp
+  rotate: true
+  xy: 1142, 517
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+images/zuoyan_pp
+  rotate: false
+  xy: 1122, 386
+  size: 119, 129
+  orig: 119, 129
+  offset: 0, 0
+  index: -1
+images/zuoyanbai_pp
+  rotate: false
+  xy: 1271, 577
+  size: 150, 162
+  orig: 150, 162
+  offset: 0, 0
+  index: -1
+images/zuozhoumei_pp
+  rotate: false
+  xy: 164, 13
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
