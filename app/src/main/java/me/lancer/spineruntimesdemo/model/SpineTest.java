@@ -8,6 +8,7 @@ import com.badlogic.gdx.graphics.g2d.PolygonSpriteBatch;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.esotericsoftware.spine.AnimationState;
 import com.esotericsoftware.spine.AnimationStateData;
+import com.esotericsoftware.spine.Event;
 import com.esotericsoftware.spine.Skeleton;
 import com.esotericsoftware.spine.SkeletonData;
 import com.esotericsoftware.spine.SkeletonJson;
@@ -51,8 +52,8 @@ public class SpineTest extends ApplicationAdapter {
         SkeletonData skeletonData = json.readSkeletonData(Gdx.files.internal("spine/skeleton.json"));
 
         skeleton = new Skeleton(skeletonData); // Skeleton holds skeleton state (bone positions, slot attachments, etc).
-//        skeleton.setPosition(175, 50);
-        skeleton.setPosition(500, 500);
+        skeleton.setPosition(175, 50);
+//        skeleton.setPosition(500, 500);
 
         AnimationStateData stateData = new AnimationStateData(skeletonData); // Defines mixing (crossfading) between animations.
 //        stateData.setMix("run", "jump", 0.2f);
@@ -63,6 +64,36 @@ public class SpineTest extends ApplicationAdapter {
 
         // Queue animations on track 0.
         state.setAnimation(0, "animation", true);
+        state.addListener(new AnimationState.AnimationStateListener() {
+            @Override
+            public void start(AnimationState.TrackEntry entry) {
+            }
+
+            @Override
+            public void interrupt(AnimationState.TrackEntry entry) {
+
+            }
+
+            @Override
+            public void end(AnimationState.TrackEntry entry) {
+
+            }
+
+            @Override
+            public void dispose(AnimationState.TrackEntry entry) {
+
+            }
+
+            @Override
+            public void complete(AnimationState.TrackEntry entry) {
+
+            }
+
+            @Override
+            public void event(AnimationState.TrackEntry entry, Event event) {
+
+            }
+        });
 
 //        state.addAnimation(0, "animation", true, 0); // Run after the jump.
     }

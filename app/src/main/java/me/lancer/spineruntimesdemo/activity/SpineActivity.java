@@ -2,13 +2,10 @@ package me.lancer.spineruntimesdemo.activity;
 
 import android.graphics.PixelFormat;
 import android.os.Bundle;
-import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.SurfaceView;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.WindowManager;
-import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
@@ -75,7 +72,7 @@ public class SpineActivity extends AndroidApplication {
         layoutParams.width = dp2Px(120) * 2;
         layoutParams.height = dp2Px(150) * 2;
 //        layoutParams.format = -3;
-        content.addView(alienView, 0,layoutParams);
+        content.addView(alienView, 0, layoutParams);
     }
 
     public int dp2Px(float value) {
